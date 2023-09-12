@@ -1,0 +1,7 @@
+[template]
+  incoming-hooks = ["Sanity"]
+
+[template.environment]
+  NEXT_PUBLIC_SANITY_PROJECT_ID="2fms32z2"
+  NEXT_PUBLIC_SANITY_DATASET="production"
+  
